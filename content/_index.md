@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        欢迎来到秀钟书院！
       image:
         filename: welcome.jpg
       text: |
