@@ -80,4 +80,6 @@ sections:
           image_filename: tweets/GitHub.png
           link: https://wowchemy.com
           text: Love it!
+    design:
+      columns: '1'
 ---
