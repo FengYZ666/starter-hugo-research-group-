@@ -63,9 +63,7 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-      
 
-sections:
   - block: testimonials
     content:
       title: Testimonials
