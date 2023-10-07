@@ -60,7 +60,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        马勒戈壁
     design:
       columns: '1'
 
